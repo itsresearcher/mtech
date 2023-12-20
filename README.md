@@ -63,6 +63,6 @@
 Если у вас есть вопросы или предложения по улучшению проекта, свяжитесь со мной по следующим контактам:
 
 - **Email:** abchapanov@gmail.com
-- **GitHub:** [GitHub профиль](https://github.com/itsresearcher)
+- **GitHub:** [https://github.com/itsresearcher]
 
 Благодарю за внимание к проекту!
